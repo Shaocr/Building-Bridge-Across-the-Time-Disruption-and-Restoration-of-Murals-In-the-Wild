@@ -7,7 +7,7 @@
 We run this code on an Ubuntu 20.04.5 server equipped with an Intel(R) Xeon(R) Gold 6230R CPU and 8 Nvidia(R) RTX 3090 GPUs. And the packages can be found in the file `requirements.txt`.
 
 ## Datasets
-You can download the datasets from [here](https://drive.google.com/drive/folders/1DhHkSQIBAMtDwW3xcPhTIA3HoZGwfD1l) (Please contract shaohuiyang21@mails.ucas.ac.cn and complete the form to acquire Ground Truth images. ).
+You can download the datasets from [here](https://drive.google.com/drive/folders/1DhHkSQIBAMtDwW3xcPhTIA3HoZGwfD1l) (Please contract shaohuiyang21@mails.ucas.ac.cn and complete the form to acquire Ground Truth images).
 
 - prepare the image data in `datasets/dunhuang/{}/`, e.g., `datasets/dunhuang/train_cond/1.png`
   
