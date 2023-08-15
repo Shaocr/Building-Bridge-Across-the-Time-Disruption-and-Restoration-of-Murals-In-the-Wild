@@ -28,3 +28,5 @@ This repository can also reproduce the results via the bash script provided:
 
 - run test script `./test.sh`
 
+## Checkpoints
+You can download the checkpoints from [here](https://drive.google.com/drive/folders/1DhHkSQIBAMtDwW3xcPhTIA3HoZGwfD1l) and put it in a specific folder, then set `"resume_state": "checkpoint_path"` in `config/test.json`.
